@@ -40,7 +40,7 @@ Or in your project’s `Package.swift`:
 dependencies: [
  .package(url: "https://github.com/sujeetshrivastav-ss/AppSecurityKit.git", from: "1.0.0")
 ]
-
+```
 
 ## How to use
 
